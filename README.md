@@ -3,7 +3,7 @@
 # Vira Ishchuk
 **Computer Science Student · Aberystwyth University · Class of 2027**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/vira-ishchuk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/vira-ishchuk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:v.ishchuk.dev@gmail.com)
 
 </div>
@@ -36,7 +36,7 @@ I'm a member of Rewriting the Code — a community supporting women in tech. I e
 ---
 
 ## 📫 Get in Touch
-- 🌐 Let's connect on [LinkedIn](www.linkedin.com/in/vira-ishchuk)
+- 🌐 Let's connect on [LinkedIn](https:www.linkedin.com/in/vira-ishchuk)
 
 ---
 
