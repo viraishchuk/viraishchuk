@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a second-year Computer Science student at Aberystwyth University with a strong interest in **software engineering**. I'm actively building my skills in algorithms and data structures,backend development, and data analysis and I'm currently seeking **Summer 2026 internship opportunities** in software engineering roles.
+I'm a second-year Computer Science student at Aberystwyth University with a strong interest in **software engineering**. I'm actively building my skills in algorithms and data structures,backend development, and data analysis.
 
 I'm a member of Rewriting the Code — a community supporting women in tech. I enjoy connecting with others in the industry .
 
